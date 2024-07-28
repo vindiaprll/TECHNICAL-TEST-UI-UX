@@ -47,7 +47,7 @@ Untuk melihat dan memahami desain ini secara lebih detail, Anda dapat mengikuti 
 ## Kontak
 
 Jika Anda memiliki pertanyaan atau masukan mengenai proyek ini, jangan ragu untuk menghubungi saya:
-- *Email*: [email@example.com](vindimunik@gmail.com)
+- *Email*: [vindimunik@gmail.com](vindimunik@gmail.com)
 - *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/vindiaprll/)
 
 Terima kasih telah mengunjungi repositori ini. Semoga desain ini bermanfaat dan dapat memberikan inspirasi bagi proyek Anda selanjutnya.
